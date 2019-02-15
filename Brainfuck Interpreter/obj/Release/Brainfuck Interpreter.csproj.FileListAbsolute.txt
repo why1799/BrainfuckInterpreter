@@ -1,0 +1,22 @@
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\bin\Release\Brainfuck Interpreter.exe.config
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\bin\Release\Brainfuck Interpreter.exe
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\bin\Release\Brainfuck Interpreter.pdb
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck_Interpreter.Brainfuck.resources
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck_Interpreter.Properties.Resources.resources
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck Interpreter.csproj.GenerateResource.Cache
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck Interpreter.exe
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck Interpreter.pdb
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck_Interpreter.Exiting.resources
+C:\Users\Артём\OneDrive\НИУ ВШЭ\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck_Interpreter.Quest.resources
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\bin\Release\Brainfuck Interpreter.exe.config
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\bin\Release\Brainfuck Interpreter.exe
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\bin\Release\Brainfuck Interpreter.pdb
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck_Interpreter.Brainfuck.resources
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck_Interpreter.Exiting.resources
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck_Interpreter.Properties.Resources.resources
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck_Interpreter.Quest.resources
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck Interpreter.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck Interpreter.exe
+C:\Users\student\Desktop\Brainfuck Interpreter\Brainfuck Interpreter\obj\Release\Brainfuck Interpreter.pdb
